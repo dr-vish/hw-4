@@ -2,6 +2,6 @@
 
 Diving deep into Vectorized operations and Control flow:
 
-if / then / else
-for loops
-while loops
+a) if / then / else
+b) for loops
+c) while loops
