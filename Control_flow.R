@@ -1,23 +1,3 @@
-# Biostat213 Summer 2022 Worksheet 4 Solutions
-
-# Last Name: Malhotra
-# First Name: Vishakha
-
-# Instructions ----
-
-# Please attempt all exercises individually after reviewing the class material.
-#
-# Use exclusively built-in R commands and no third-party packages.
-#
-# Write your solution below each exercise as R code and test that it works.
-#
-# Use R's built-in documentation and the online book for help as needed.
-#
-# Each question or subquestion, in the case of multi-part questions, is worth
-# one point. There is no partial credit.
-#
-# If you have any questions, please make a note and bring them up in
-# class next week.
 
 ## Control flow
 
@@ -169,11 +149,3 @@ while (x >= 0.1) {
   print(x)
 }
 
-
-# Submit ----
-
-# Make sure you have filled in your name at the top and attempted all exercises 
-# above. Submit through CLE before Monday 17.00
-#
-# Thank you
-# EDG
